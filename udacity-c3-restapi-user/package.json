@@ -22,7 +22,7 @@
     "bcrypt": "^3.0.6",
     "body-parser": "^1.18.3",
     "email-validator": "^2.0.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "install": "^0.13.0",
     "jsonwebtoken": "^8.5.1",
     "node-pre-gyp": "^0.14.0",
